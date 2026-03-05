@@ -1,0 +1,5 @@
+valyu
+pandas
+transformers
+torch
+python-dotenv
