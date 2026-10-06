@@ -1,5 +1,6 @@
-valyu
-pandas
-transformers
-torch
-python-dotenv
+# Requires Python 3.10+
+valyu>=2.3,<3.0
+pandas>=2.0
+transformers>=4.40
+torch>=2.0
+python-dotenv>=1.0
